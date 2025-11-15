@@ -9,7 +9,8 @@ Highlight recommended or popular plans
 Clean and modern UI
 
 Demo:
-<img width="1246" height="755" alt="image" src="https://github.com/user-attachments/assets/6ee8d0c6-d14d-4c8a-b0bd-cb97b08e73bb" />
+<img width="1407" height="857" alt="image" src="https://github.com/user-attachments/assets/ab1ece7c-1e21-473e-995f-a42408018758" />
+
 
 Technologies
 HTML5
